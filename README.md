@@ -29,4 +29,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blo0dR0gue&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=joeel561&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Blo0dR0gue&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
